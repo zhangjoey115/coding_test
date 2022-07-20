@@ -5,7 +5,7 @@
       "name": "DES",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/build/leet_03",
+      "program": "${workspaceFolder}/build/leet_heap",
       "args": [],
       "stopAtEntry": true,
       "cwd": "${workspaceFolder}",

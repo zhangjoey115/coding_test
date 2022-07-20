@@ -2,6 +2,18 @@
   "ros.distro": "melodic",
   "files.associations": {
     "ostream": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "vector": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp",
+    "unordered_map": "cpp",
+    "typeinfo": "cpp",
+    "chrono": "cpp",
+    "algorithm": "cpp",
+    "*.tcc": "cpp"
   }
 }

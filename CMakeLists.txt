@@ -7,7 +7,8 @@
 
 cmake_minimum_required (VERSION 3.5.0 FATAL_ERROR)
 
-set(TARGET leet_03)
+set(TARGET leet_heap)
+add_compile_options( -std=c++11)
 set(CMAKE_BUILD_TYPE "Debug")
 
 project(${TARGET})
